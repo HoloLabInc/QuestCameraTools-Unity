@@ -11,6 +11,8 @@ For hardware and device prerequisites, please refer to the official samples and 
 
 ## QR Code Tracking
 
+https://github.com/user-attachments/assets/8258f69c-9279-41b3-83cb-1a4ec75565da
+
 ### Sample Project
 
 The Unity project located in [unity/QRTracking-6000](./unity/QRTracking-6000/) is the sample project for QR Code Tracking.
