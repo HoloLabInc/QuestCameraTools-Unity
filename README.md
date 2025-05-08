@@ -11,7 +11,7 @@ For hardware and device prerequisites, please refer to the official samples and 
 
 ## QR Code Tracking
 
-https://github.com/user-attachments/assets/8258f69c-9279-41b3-83cb-1a4ec75565da
+https://github.com/user-attachments/assets/0fae755e-6ca2-4a43-9bee-024cf7dc3feb
 
 ### Sample Project
 
@@ -40,6 +40,8 @@ Open `Packages\manifest.json` and add the following lines in "dependencies":
 For usage, please refer to the sample scene in the sample project.
 
 ## Localization with Immersal
+
+https://github.com/user-attachments/assets/b14f3860-15fc-4936-8c8d-b9eed0a777b2
 
 ### Sample Project
 
